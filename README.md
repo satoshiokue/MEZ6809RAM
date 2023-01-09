@@ -13,3 +13,6 @@ https://store.shopping.yahoo.co.jp/orangepicoshop/pico-i-009.html
 
 EMUZ80-6809RAM  
 https://github.com/satoshiokue/EMUZ80-6809RAM/
+
+MEZ6809RAM専用プリント基板 - オレンジピコショップ  
+https://store.shopping.yahoo.co.jp/orangepicoshop/pico-a-066.html
